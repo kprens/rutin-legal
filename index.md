@@ -1,6 +1,6 @@
 # Rutin — Gizlilik Politikası
 
-Son güncelleme: 11 Temmuz 2026
+Son güncelleme: 24 Temmuz 2026
 
 Bu politika, Rutin mobil uygulamasının ("Uygulama") hangi verileri topladığını, nasıl kullandığını ve haklarınızı açıklar. Uygulamayı kullanarak bu politikayı kabul etmiş olursunuz.
 
@@ -10,18 +10,35 @@ Rutin, alışkanlık verilerinizi (streak sayaçları, günlük görevler, su ta
 
 ## Hesap oluşturursanız toplanan veriler
 
-Arkadaşlar özelliğini kullanmak için isteğe bağlı bir hesap oluşturabilirsiniz. Bu durumda şunlar sunucularımızda (Supabase, AB — Frankfurt bölgesi) saklanır:
+Arkadaşlar özelliğini kullanmak için isteğe bağlı bir hesap oluşturabilirsiniz — e-posta/parola ile ya da Google veya Apple hesabınızla giriş yaparak. Bu durumda şunlar sunucularımızda (Supabase, AB — Frankfurt bölgesi) saklanır:
 
 - E-posta adresiniz (giriş için)
+- Google/Apple ile giriş yaptıysanız, bu sağlayıcıların paylaştığı temel profil bilgisi (ad, e-posta)
 - Seçtiğiniz kullanıcı adı ve davet kodunuz
 - Arkadaşlık bağlantılarınız
 - **Yalnızca paylaşmayı seçtiğiniz** streak özetleri (isim, başlangıç tarihi, en iyi seri)
+- **Yalnızca siz gönderdiyseniz** destek (panik) sinyalleri: gönderdiğiniz an ve ilgili bırakma kaydının adı
 
 Paylaşımı istediğiniz an kapatabilirsiniz; kapattığınızda ilgili veri sunucudan silinir. Paylaşılan veriler yalnızca onayladığınız arkadaşlarınız tarafından görülebilir; herkese açık değildir.
+
+## Kriz kayıtları ve kişisel notlarınız
+
+Uygulama, size özel içgörüler (risk pencereniz, tetikleyici haritanız) üretebilmek için şunları kaydeder:
+
+- Bir kriz anını atlattığınızda ya da bir nüks kaydettiğinizde, **isteğe bağlı** olarak seçtiğiniz tetikleyici (stres, yorgunluk, sosyal ortam gibi) ve bunun zamanı. Bu soruyu her zaman atlayabilirsiniz.
+- "Geleceğe Mektup" özelliğinde kendinize yazdığınız metin.
+
+Bu kayıtlar **cihazınızda** saklanır. Hesap oluşturduysanız, diğer alışkanlık verilerinizle birlikte yalnızca **size ait** hesap alanında yedeklenir; arkadaşlarınız dahil hiç kimseyle paylaşılmaz ve reklam amacıyla kullanılmaz. Verilerinizi Ayarlar → "Verini Dışa Aktar" ile istediğiniz an indirebilirsiniz.
+
+Uygulamada gösterilen iyileşme kilometre taşları genel bilgilendirme amaçlıdır; tıbbi tavsiye, tanı veya tedavi değildir ve tarafımızca sağlık verisi olarak işlenmez.
 
 ## Hesap silme
 
 Hesabınızı Uygulama içinden (Arkadaşlar → Hesabı kalıcı olarak sil) istediğiniz an silebilirsiniz. Silme işlemi geri alınamaz; e-postanız, profiliniz, arkadaşlıklarınız ve paylaşılan tüm verileriniz sunucudan kalıcı olarak kaldırılır. Cihazınızdaki yerel veriler etkilenmez.
+
+## Satın almalar
+
+Rutin Pro aboneliği, cihazınıza göre Google Play Faturalandırma (Android) veya Apple App Store / StoreKit (iOS) üzerinden satın alınır. **Kart/ödeme bilgilerinizi hiçbir zaman görmeyiz veya saklamayız** — bu bilgileri Google ya da Apple yönetir. Satın alımınızın geçerliliğini doğrulamak için ilgili mağazanın ürettiği satın alma jetonu/makbuzu (kart bilgisi içermez) sunucumuzdaki doğrulama servisine iletilir.
 
 ## Reklamlar
 
@@ -33,11 +50,15 @@ Uygulama kararlılığını iyileştirmek için anonim çökme raporları (cihaz
 
 ## Toplamadıklarımız
 
-Konum verisi, rehber, fotoğraflar, sağlık verileri toplamayız. Verilerinizi üçüncü taraflara satmayız ve pazarlama amacıyla paylaşmayız.
+Konum verisi, rehber, fotoğraf, mikrofon kaydı veya HealthKit/Google Fit gibi kaynaklardan sağlık verisi toplamayız. Verilerinizi üçüncü taraflara satmayız ve pazarlama amacıyla paylaşmayız. Kendi girdiğiniz alışkanlık, bırakma ve kriz kayıtlarınız yalnızca uygulamanın size sunduğu işlevler için kullanılır.
 
 ## Çocukların gizliliği
 
 Uygulama 13 yaş altı çocuklara yönelik değildir ve onlardan bilerek veri toplamaz.
+
+## Haklarınız
+
+Türkiye'de 6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK) ve ilgili bölgelerde Genel Veri Koruma Tüzüğü (GDPR) kapsamında; verilerinize erişme, düzeltilmesini isteme, silinmesini talep etme ve işlemeye itiraz etme hakkına sahipsiniz. Bu haklarınızı aşağıdaki e-posta adresinden bize ulaşarak ya da Uygulama içinden doğrudan hesap silme işlemini gerçekleştirerek kullanabilirsiniz.
 
 ## Değişiklikler
 
@@ -51,7 +72,9 @@ Sorularınız için: alperen8taskiran@gmail.com
 
 # Rutin — Privacy Policy (English)
 
-Last updated: July 11, 2026
+Last updated: July 24, 2026
+
+This policy explains what data the Rutin mobile app ("the App") collects, how it is used, and what rights you have. By using the App you accept this policy.
 
 ## Core principle: your data stays on your device
 
@@ -59,13 +82,35 @@ Rutin stores your habit data (streak counters, daily tasks, water tracking, cale
 
 ## Data collected if you create an account
 
-The Friends feature requires an optional account. In that case we store on our servers (Supabase, EU — Frankfurt region): your email address (for sign-in), your chosen username and invite code, your friendship connections, and **only the streak summaries you choose to share** (name, start date, best streak).
+The Friends feature requires an optional account — created with email/password, or by signing in with your Google or Apple account. In that case we store on our servers (Supabase, EU — Frankfurt region):
+
+- Your email address (for sign-in)
+- If you signed in with Google/Apple, the basic profile information those providers share (name, email)
+- Your chosen username and invite code
+- Your friendship connections
+- **Only the streak summaries you choose to share** (name, start date, best streak)
+- **Only if you send them**, support (panic) signals: the moment you sent it and the name of the related quit record
 
 You can stop sharing at any time; the data is then removed from the server. Shared data is visible only to friends you approved — never public.
+
+## Crisis records and your personal notes
+
+To generate insights that are specific to you (your risk window, your trigger map), the App records:
+
+- When you get through a moment of crisis or log a relapse, the trigger you **optionally** select (such as stress, fatigue, or social settings) and its timestamp. You can always skip this question.
+- The text you write to yourself in the "Letter to the Future" feature.
+
+These records are stored **on your device**. If you created an account, they are backed up along with your other habit data in an area belonging **only to you**; they are never shared with anyone, including your friends, and are never used for advertising. You can download your data at any time via Settings → "Export Your Data".
+
+The recovery milestones shown in the App are for general information only; they are not medical advice, diagnosis, or treatment, and we do not process them as health data.
 
 ## Account deletion
 
 You can permanently delete your account in the app (Friends → Permanently delete account). This removes your email, profile, friendships and all shared data from our servers. Local data on your phone is not affected.
+
+## Purchases
+
+The Rutin Pro subscription is purchased through Google Play Billing (Android) or the Apple App Store / StoreKit (iOS), depending on your device. **We never see or store your card or payment details** — Google or Apple handles them. To verify that your purchase is valid, the purchase token/receipt generated by the relevant store (which contains no card details) is sent to our verification service.
 
 ## Advertising
 
@@ -77,11 +122,19 @@ Anonymous crash reports (device model, OS version, error details) may be collect
 
 ## What we do NOT collect
 
-No location, contacts, photos or health data. We never sell your data or share it for marketing.
+No location data, contacts, photos, microphone recordings, or health data from sources such as HealthKit/Google Fit. We never sell your data or share it for marketing. The habit, quit, and crisis records you enter yourself are used only for the features the App provides to you.
 
 ## Children's privacy
 
 The app is not directed at children under 13 and does not knowingly collect their data.
+
+## Your rights
+
+Under Türkiye's Personal Data Protection Law No. 6698 (KVKK) and, in applicable regions, the General Data Protection Regulation (GDPR), you have the right to access your data, request its correction or deletion, and object to its processing. You can exercise these rights by contacting us at the email address below, or by deleting your account directly from within the App.
+
+## Changes
+
+If this policy is updated, the current version will be published on this page.
 
 ## Contact
 
