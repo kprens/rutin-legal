@@ -1,6 +1,6 @@
 # Rutin — Gizlilik Politikası
 
-Son güncelleme: 24 Temmuz 2026
+Son güncelleme: 9 Ağustos 2026
 
 Bu politika, Rutin mobil uygulamasının ("Uygulama") hangi verileri topladığını, nasıl kullandığını ve haklarınızı açıklar. Uygulamayı kullanarak bu politikayı kabul etmiş olursunuz.
 
@@ -20,6 +20,15 @@ Arkadaşlar özelliğini kullanmak için isteğe bağlı bir hesap oluşturabili
 - **Yalnızca siz gönderdiyseniz** destek (panik) sinyalleri: gönderdiğiniz an ve ilgili bırakma kaydının adı
 
 Paylaşımı istediğiniz an kapatabilirsiniz; kapattığınızda ilgili veri sunucudan silinir. Paylaşılan veriler yalnızca onayladığınız arkadaşlarınız tarafından görülebilir; herkese açık değildir.
+
+### Engelleme ve şikayet
+
+Bir kullanıcıyı engellediğinizde ya da şikayet ettiğinizde sunucumuzda yalnızca şunlar saklanır:
+
+- Engelleme: sizin ve engellediğiniz kullanıcının hesap kimlikleri ve işlem zamanı. Engellendiğini karşı taraf göremez.
+- Şikayet: sizin ve şikayet ettiğiniz kullanıcının hesap kimlikleri, seçtiğiniz sabit sebep (rahatsız edici içerik, taciz, spam, diğer) ve işlem zamanı. Serbest metin toplanmaz.
+
+Bu kayıtlar yalnızca kötüye kullanımı değerlendirmek için kullanılır; reklam veya analiz amacıyla kullanılmaz, üçüncü taraflarla paylaşılmaz.
 
 ## Kriz kayıtları ve kişisel notlarınız
 
@@ -72,7 +81,7 @@ Sorularınız için: alperen8taskiran@gmail.com
 
 # Rutin — Privacy Policy (English)
 
-Last updated: July 24, 2026
+Last updated: August 9, 2026
 
 This policy explains what data the Rutin mobile app ("the App") collects, how it is used, and what rights you have. By using the App you accept this policy.
 
@@ -92,6 +101,15 @@ The Friends feature requires an optional account — created with email/password
 - **Only if you send them**, support (panic) signals: the moment you sent it and the name of the related quit record
 
 You can stop sharing at any time; the data is then removed from the server. Shared data is visible only to friends you approved — never public.
+
+### Blocking and reporting
+
+When you block or report another user, we store only the following on our servers:
+
+- Blocking: your account identifier and that of the user you blocked, plus the time of the action. The other person cannot see that they have been blocked.
+- Reporting: your account identifier and that of the user you reported, the fixed reason you selected (offensive content, harassment, spam, other), and the time of the action. No free text is collected.
+
+These records are used solely to assess abuse; they are never used for advertising or analytics, and are never shared with third parties.
 
 ## Crisis records and your personal notes
 
